@@ -9,7 +9,9 @@ h1 {
   font-family: 'Abril Fatface', cursive;
   font-size: 70px;
   display: flex;
- text-shadow: 2px 2px #EAC5D8;
+ text-shadow: 6px 6px 2px white;
+  text-decoration-line: overline;
+  text-decoration-style: wavy;
 }
 
 button {
@@ -23,7 +25,5 @@ h2 h3{
   text-align: center;
   
 }
-
-
 
 
