@@ -1,4 +1,4 @@
-$("button").click (function(){
+$("#button1").click (function(){
  $("h1").html("Are you REALLY hungry?");
   $("h2").fadeOut();
   $("h3").fadeOut();
