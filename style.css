@@ -4,8 +4,6 @@ body {
   font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
   margin: 2em;
 background-image: linear-gradient( to right , #248376 , #9FF8eb , #9FF8EB);
-  display: flex;
-  justify-content: center;
 border: 10px solid #592941
 }
 
@@ -13,6 +11,8 @@ h1 {
   color: black;  
   font-family: 'Abril Fatface', cursive;
   font-size: 70px;
+  display: flex;
+  justify-content: center;
 }
 
 button {
