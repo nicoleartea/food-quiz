@@ -10,8 +10,10 @@ h1 {
   font-size: 70px;
   display: flex;
  text-shadow: 6px 6px 2px white;
-  text-decoration-line: overline;
+  text-decoration-line: overline underline;
   text-decoration-style: wavy;
+    font-style: oblique;
+
 }
 
 button {
