@@ -3,9 +3,16 @@
 body {
   font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
   margin: 2em;
+background-color: #D1FAE8;
+  display: flex;
+  justify-content: center;
+
 }
 
 h1 {
-  font-style: italic;
-  color: #373fff;
+  
+color: black;
+font-family: 'Abril Fatface', cursive;
+
 }
+
