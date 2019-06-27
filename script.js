@@ -24,6 +24,7 @@ $("#tacoBell").hide();
 $("#wendys").hide();
 $("#jackInTheBox").hide();
 $("#mcDonalds").hide();
+$(".grid").hide();
 
 $("#start").click (function(){
   $("h1").html("Question 1: Are you REALLY hungry?");
