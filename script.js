@@ -129,7 +129,7 @@ function showSlides(n) {
      }
   })
 
-var music = new sound("")
+
 
 
 
